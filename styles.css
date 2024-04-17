@@ -1,0 +1,45 @@
+body,
+html {
+  padding: 1rem;
+  font-family: sans-serif;
+}
+
+.prisoner {
+  height: 2rem;
+  width: 2rem;
+  text-align: center;
+  padding-top: 0.6rem;
+  border: 1px solid black;
+}
+
+.progress {
+  background: yellow;
+}
+
+.success {
+  background: green;
+}
+
+.fail {
+  background: red;
+}
+
+.current {
+  background-color: lightblue;
+}
+
+.prisoners {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.2rem;
+}
+
+.boxes {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
