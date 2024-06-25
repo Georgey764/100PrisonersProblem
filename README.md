@@ -1,4 +1,4 @@
-# 100PrisonersProblem
-A program to display 100 prisoners problem
+# 100 Prisoners Problem
+> A program to display 100 the prisoners problem. This project was made for a presentation at my Mathematical Statistics class.
 
-https://georgey764.github.io/100PrisonersProblem/index.html
+[Click Here to View the Project](https://georgey764.github.io/100PrisonersProblem/index.html)
